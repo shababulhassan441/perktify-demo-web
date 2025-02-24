@@ -1,4 +1,4 @@
-import { Geist, Geist_Mono } from "next/font/google";
+// import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import CustomScripts from "@/scripts/CustomScripts";
 import Header from "@/components/Header";
